@@ -88,6 +88,7 @@ const CONFIG = {
     'Python',
     'Assembly',
     'Metasploit',
+    'NMap',
     'OSINT',
     'Pentesting',
     'MySQL',
