@@ -61,6 +61,7 @@ const CONFIG = {
     twitter: 'StevenIReedIII',
     mastodon: '',
     researchGate: '',
+    kaggle:'stevenireed',
     facebook: 'the.steven.reed',
     instagram: 'the.steven.reed',
     reddit: '',
@@ -75,7 +76,7 @@ const CONFIG = {
     skype: '',
     telegram: '',
     website: 'steven-reed.neocities.org',
-    phone: '',
+    phone: '+1 (661) 606-5365',
     email: 'sreeds2018@gmail.com',
   },
   resume: {
