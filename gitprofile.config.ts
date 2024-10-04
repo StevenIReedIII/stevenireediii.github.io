@@ -110,10 +110,16 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Python',
+      body: 'Earned the Python Certfication on Kaggle',
+      year: 'November 2023',
+      link: 'https://www.kaggle.com/learn/certification/stevenireed/python',
+    },
+    {
+      name: 'Intro to Machine Learning',
+      body: 'Earned the Intro to Machine Learning Certfication on Kaggle',
+      year: 'November 2023',
+      link: 'https://www.kaggle.com/learn/certification/stevenireed/intro-to-machine-learning',
     },
   ],
   educations: [
@@ -165,7 +171,7 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'lofi',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
